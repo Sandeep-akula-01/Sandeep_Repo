@@ -1,2 +1,2 @@
 # Sandeep_Repo
-My First Repo for the Devops Learning
+My First Repo as a part of my devops learning. 
